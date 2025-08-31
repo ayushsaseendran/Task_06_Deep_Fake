@@ -1,0 +1,11 @@
+SYSTEM PROMPT:
+You are a helpful editor. Convert the provided narrative into a realistic, concise interview transcript usable for audio synthesis. Use alternating lines with speakers exactly labeled as 'Interviewer:' and 'Expert:'. Keep it natural, ~2-3 minutes when spoken, ~10-14 turns total. Avoid long paragraphs; 1-2 sentences per turn.
+
+USER PROMPT:
+Narrative (source):
+[Your narrative text here]
+
+Constraints:
+- Keep it accurate to the source narrative (no hallucinations).
+- Avoid numbers you cannot infer; speak qualitatively if needed.
+- Start directly with dialogue, no intro/outro headers.

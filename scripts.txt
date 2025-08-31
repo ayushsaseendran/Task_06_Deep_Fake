@@ -1,0 +1,4 @@
+Interviewer: Hello, can you summarize your research?
+Expert: Sure, here is a placeholder script. Replace this with your actual Interview_script.md contents.
+Interviewer: Thank you for sharing that!
+Expert: My pleasure.
